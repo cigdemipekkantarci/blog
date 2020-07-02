@@ -15,7 +15,7 @@ The input csv file (should be delimited with ;) includes 3 columns:
 - **dnAdd** : DN of group where user will be added to
 - **dnRmv** : DN of group where user will be removed from
 
-<img src="{{site.baseurl}}/assets/img/oim/csv_demo_grp.png">
+<img src="{{site.baseurl}}/assets/img/oim/csv_demo_grp.PNG">
 
 ```powershell
 $oper = Import-Csv -Path C:\Scripts\IDMBatchOperations\list.csv -Delimiter ";" -Encoding UTF8
@@ -54,7 +54,7 @@ The input csv file (should be delimited with ;) includes 3 columns:
 - **sam**   : sAMAccountName attribute of user
 - **ouMove** : OU where user will be moved to
 
-<img src="{{site.baseurl}}/assets/img/oim/csv_demo_ou.png">
+<img src="{{site.baseurl}}/assets/img/oim/csv_demo_ou.PNG">
 
 ```powershell
 $oper = Import-Csv -Path C:\Scripts\IDMBatchOperations\list2.csv -Delimiter ";" -Encoding UTF8
