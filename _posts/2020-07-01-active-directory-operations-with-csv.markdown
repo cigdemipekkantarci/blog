@@ -6,7 +6,7 @@ categories: oim active_directory powershell
 ---
 To make specific user opeartions on Active Directory and pulling that change into OIM the following script can be used.
 After an operation completed for a user, I change a dummy attribute (like "comment" attribute) of a user to an arbitrary value. 
-Then I run *Active Directory User Target Recon* scheduled job with a *Filter* parameter of *equalTo('comment','OK')* 
+Then I run *Active Directory User Target Recon* scheduled job with a `Filter` parameter of `equalTo('comment','OK')`
 
 # **Add/Remove Users to/from the Groups**
 
