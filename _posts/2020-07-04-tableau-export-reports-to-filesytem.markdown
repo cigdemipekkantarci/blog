@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Export Tableau Reports to Filesystem / Encrypt admin password"
+title:  "Export Tableau reports to dilesystem / Encrypt admin password with PowerShell"
 date:   2020-07-04 11:00:00 +0300
 categories: tableau windows_server powershell
 ---
