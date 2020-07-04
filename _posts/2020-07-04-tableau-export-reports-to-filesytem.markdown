@@ -73,7 +73,7 @@ exit
 <img src="{{site.baseurl}}/assets/img/tableau/sch-task4.png">
 
 Program/script: 
-`
+```
 C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
 Add arguments: -noprofile -executionpolicy unrestricted -noninteractive -file "C:\Program Files\Tableau\files\gkk_rapor\gkk_all_exports.ps1"
-`
+```
