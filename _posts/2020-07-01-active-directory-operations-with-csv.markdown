@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Simple Active Directory operations with Powershell and csv"
+title:  "Simple Active Directory operations with PowerShell and csv files"
 date:   2020-07-01 12:30:00 +0300
 categories: oim active_directory powershell
 ---
